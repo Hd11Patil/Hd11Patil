@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **harshal.dp11@gmail.com**
 
-- 📄 My resume [https://bit.ly/4e8mJD0](https://bit.ly/4e8mJD0)
+- 📄 My resume [https://bit.ly/4e8mJD0](https://bit.ly/3XrrJg0)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
