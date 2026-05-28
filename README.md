@@ -4,16 +4,7 @@
 # 🤖 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Hd11Patil&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hd11patil&show_icons=true&locale=en" alt="hd11patil" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hd11patil&" alt="hd11patil" /></p>
-
-
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hd11Patil&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
